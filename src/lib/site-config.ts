@@ -41,6 +41,6 @@ export const siteConfig = {
     github: 'https://github.com/UTSAVSONI99',
     mailTo: 'mailto:utsavsoni619@gmail.com',
     cvPdf: '/my-resume.pdf',
-    sohailYoutube: 'https://www.youtube.com/@buildwithsohail',
+    // sohailYoutube: 'https://www.youtube.com/@buildwithsohail',
   },
 }
