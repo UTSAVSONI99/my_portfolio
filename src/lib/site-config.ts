@@ -2,7 +2,7 @@ import { env } from '@/env.mjs'
 
 export const siteConfig = {
   name: 'Utsav Soni',
-  title: 'Utsav | Full Stack developer',
+  title: 'Utsav | Web developer',
   description:
     "Hello, I'm Utsav. I am front-end developer from India. I enjoy building sites and apps. My focus is React (Next.js).",
   keywords: [
