@@ -64,7 +64,7 @@ export default function HeroSection() {
       >
         I'm a{" "}
         <span className="bg-gradient-to-r from-rose-700 to-pink-600 bg-clip-text text-transparent">
-          Creative Web
+          Creative Front-End
         </span>{" "}
         developer crafting modern digital experiences.
       </motion.h1>

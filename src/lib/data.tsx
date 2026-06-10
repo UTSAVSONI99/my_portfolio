@@ -51,7 +51,7 @@ export const projectsData: Project[] = [
       "Components",
     ],
     links: {
-      preview: "https://www.akdkdigital.com",
+      preview: "https://akdkdigital.com",
       github: "#",
       githubApi: "#",
     },
@@ -63,8 +63,8 @@ export const experiencesData: Experience[] = [
     title: "Figma & Web Developer",
     company: "AKDK Digital ,Hybrid",
     description:
-      "Building and maintaining scalable, responsive web applications using modern technologies. Focused on performance optimization, clean architecture, and reusable component-based development.",
-    period: "2024 october - present",
+      "Built and maintained scalable, responsive web applications using React.js,Javascript, Next.js, and modern frontend technologies, emphasizing performance optimization, clean architecture, and reusable component-based development.",
+    period: "2024 october - April 2026",
     technologies: [
       "React",
       "JavaScript",
@@ -89,12 +89,12 @@ export const skillsData: Skill[] = [
   { name: "HTML", icon: <Icons.html5 className="size-12" /> },
   { name: "Tailwind", icon: <Icons.tailwind className="size-12" /> },
   { name: "JavaScript", icon: <Icons.javascript className="size-12" /> },
-  { name: "TypeScript", icon: <Icons.typescript className="size-12" /> },
+  // { name: "TypeScript", icon: <Icons.typescript className="size-12" /> },
   { name: "React", icon: <Icons.react className="size-12" /> },
   { name: "NextJS", icon: <Icons.nextjs className="size-12" /> },
   // { name: "NestJS", icon: <Icons.nestjs className="size-12" /> },
   { name: "Prisma", icon: <Icons.prisma className="size-12" /> },
   // { name: "Docker", icon: <Icons.docker className="size-12" /> },
   { name: "Nodejs", icon: <Icons.nodejs className="size-12" /> },
-  { name: "Expressjs", icon: <Icons.expressjs className="size-12" /> },
+  // { name: "Expressjs", icon: <Icons.expressjs className="size-12" /> },
 ];

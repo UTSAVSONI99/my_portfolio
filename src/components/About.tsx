@@ -22,14 +22,17 @@ export default function AboutSection() {
       <SectionHeading heading="About Me" />
       <div className="-mt-5 max-w-2xl text-center leading-7">
         <p className="mb-4">
-          I’ve been working with programming for over 2 years. My favorite part
-          of coding is solving problems — I love the feeling of finally figuring
-          out a tricky challenge.
+          Front-End Developer with 1 years of programming experience and 1 year
+          of professional experience building responsive web applications.
+          Passionate about solving problems and creating scalable, user-friendly
+          solutions using React.js, Next.js, Prisma, JavaScript, and Tailwind
+          CSS.
         </p>
         <p>
-          I'm open to Job opportunities where I can contribute, learn and grow.
-          If you have a good opportunity that matches my skills and experience
-          then don't hesitate to{" "}
+          I'm currently open to Software Development, Front-End, and Full-Stack
+          opportunities where I can contribute, learn, and grow. Feel free to
+          connect if you have an opportunity that matches my skills and
+          experience.
           <Link
             className="underline-offset-4 hover:underline"
             href={siteConfig.links.contactForm}

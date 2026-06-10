@@ -2,12 +2,12 @@ import { env } from '@/env.mjs'
 
 export const siteConfig = {
   name: 'Utsav Soni',
-  title: 'Utsav | Web developer',
+  title: 'Utsav | Front-End Developer',
   description:
     "Hello, I'm Utsav. I am front-end developer from India. I enjoy building sites and apps. My focus is React (Next.js).",
   keywords: [
     'Utsav Soni',
-    'Full Stack developer',
+    'Front-End Developer',
     'India',
     'React',
     'Next.js',
@@ -40,7 +40,7 @@ export const siteConfig = {
 
     github: 'https://github.com/UTSAVSONI99',
     mailTo: 'mailto:utsavsoni619@gmail.com',
-    cvPdf: '/my-resume.pdf',
+    cvPdf: '/utsav-resume.pdf',
     // sohailYoutube: 'https://www.youtube.com/@buildwithsohail',
   },
 }
